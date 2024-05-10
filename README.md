@@ -1,7 +1,6 @@
 # Hello World, I'm Lydia
 
 <p align="center">
-    <img alt="Digital art by @by_mrwa on Instagram" src="https://github.com/lydia-sun/lydia-sun/blob/master/Lydia-2020.PNG?raw=true" width="300">
     <br>
     <a href="https://www.linkedin.com/in/lydia-sun/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"> 
@@ -15,10 +14,8 @@
 </p>
 
 ## I am...
-🚀 developing at [Airtime](https://airtime.com/about)
+🚀 developing at Apple 
 
-💻 coding in C++, Python, and Javascript
-
-🔧 using [webRTC](https://webrtc.org/), [node.js](https://nodejs.org/en/), [boost](https://www.boost.org/), and [zookeeper](https://zookeeper.apache.org/)
+💻 coding in Swift and Objective C
 
 💡 interested in security and IoT
